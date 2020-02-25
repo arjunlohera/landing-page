@@ -1,0 +1,3 @@
+ECF5FF // light-shade
+3F65D4 // primary-dark
+6986DE // secondary-light
